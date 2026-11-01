@@ -248,6 +248,8 @@ The record is `results/interval_par_n21_mutant.json`.
 
 ## License and attribution
 
+Cite as: Hirotaka Nakano, *point-cover-check*, Zenodo, DOI 10.5281/zenodo.23853803 (concept DOI, all versions); v0.1.0: 10.5281/zenodo.23853804.
+
 Code: MIT License, Copyright (c) 2026 Hirotaka Nakano.
 The certificates are by Hosono (wand125), MIT License; the *n* = 21 one is
 derived from Evan Daniel's certificate (MIT License). They are downloaded,

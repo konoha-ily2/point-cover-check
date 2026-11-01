@@ -1,10 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this checker, please cite it. Note that it re-checks certificates by Hosono; cite those as well."
+message: "If you use this checker, please cite it. Concept DOI (all versions): 10.5281/zenodo.23853803. Note that it re-checks certificates by Hosono; cite those as well."
 title: "point-cover-check: an exact interval-arithmetic re-check of point-weight certificates for packing unit squares in a square"
 authors:
   - family-names: Nakano
     given-names: Hirotaka
 repository-code: "https://github.com/konoha-ily2/point-cover-check"
 license: MIT
+doi: 10.5281/zenodo.23853803
 version: 0.1.0
 date-released: 2026-11-01
